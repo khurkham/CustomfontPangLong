@@ -55,5 +55,6 @@
 
 
 </RelativeLayout>
- siteUrl = 'https://github.com/khurkham/CustomfontPangLong'
-    gitUrl = 'https://github.com/khurkhamlangkhur/CustomfontPangLong.git'
+
+ siteUrl = 'https://github.com/khurkham/CustomfontPangLong'   
+ gitUrl = 'https://github.com/khurkham/CustomfontPangLong.git'
